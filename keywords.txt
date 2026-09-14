@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map RD03D
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+RD03D	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setMode	KEYWORD2
+setSingleTargetMode	KEYWORD2
+setMultiTargetMode	KEYWORD2
+enterConfigMode	KEYWORD2
+exitConfigMode	KEYWORD2
+sendCommand	KEYWORD2
+sendRaw	KEYWORD2
+read	KEYWORD2
+available	KEYWORD2
+targetCount	KEYWORD2
+target	KEYWORD2
+targets	KEYWORD2
+mode	KEYWORD2
+framesReceived	KEYWORD2
+framesBad	KEYWORD2
+waitForAck	KEYWORD2
+flushInput	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SINGLE_TARGET	LITERAL1
+MULTI_TARGET	LITERAL1
+MAX_TARGETS	LITERAL1
