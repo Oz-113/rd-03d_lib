@@ -1,5 +1,7 @@
 # RD03D — Arduino library for the Ai-Thinker RD-03D mmWave radar
 
+I just wrote a prompt, this library is ai generated.
+
 An easy-to-use Arduino/ESP32 library for the **Ai-Thinker RD-03D** 24 GHz
 millimetre-wave **multi-human tracking** radar. The RD-03D tracks up to **three**
 moving humans at once and reports, for each target, its **X/Y position**, **speed**
